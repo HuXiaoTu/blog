@@ -61,11 +61,15 @@ module.exports = {
       {
         "title": "简书",
         "desc": "简约而不简单~",
+        // "icon": 'reco-jianshu',
+        // "logo": "https://cdn2.jianshu.io/assets/web/nav-logo-4c7bbafe27adc892f3046e6978459bac.png",
         "link": "https://www.jianshu.com/u/7c7e42943400"
       },
       {
         "title": "GitHub",
         "desc": "技术交流",
+        // "icon": 'reco-github',
+        // "logo": "https://cdn2.jianshu.io/assets/web/nav-logo-4c7bbafe27adc892f3046e6978459bac.png",
         "link": "https://github.com/HuXiaoTu"
       }
     ],
@@ -84,7 +88,7 @@ module.exports = {
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "wangShuai",
-    "record": "京ICP备18048655号-1",
+    "record": "京ICP备18048655号-2",
     "recordLink": "http://www.beian.miit.gov.cn",
     "startYear": "2017"
   },
